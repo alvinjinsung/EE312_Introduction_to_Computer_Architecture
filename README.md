@@ -1,4 +1,5 @@
 # EE312_Introduction_to_Computer_Architecture
+ISA based on RV32I and simulated on ModelSim Intel FPGA Starter Edition(https://fpgasoftware.intel.com/?edition=lite)
 
 ## Lab1: ALU lab
 Implemented an Arithmetic Logic Unit(ALU) by using verilog language
